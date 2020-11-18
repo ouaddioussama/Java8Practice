@@ -1,4 +1,4 @@
-#JAVA8 PRACTICE
+# JAVA8 PRACTICE
 
 * this project contains multiple part of concepts used in java8 , it is divided in multiple package .
 
